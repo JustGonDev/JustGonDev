@@ -2,6 +2,8 @@
 <h3 align="center">Just A Bruh Developer</h3>
 
 - 🔭 I’m currently working on [JABD-Project](https://github.com/JABD-Team)
+- 🍀 All my project : 
+ + [JABD-Project](https://github.com/JABD-Team)
 
 <hr>
   <a>
