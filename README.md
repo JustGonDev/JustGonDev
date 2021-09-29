@@ -14,4 +14,4 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justgondev&show_icons=true&locale=en&layout=compact" alt="justgondev" /></p>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justgondev&show_icons=true&locale=en" alt="justgondev" /></p>
+<br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justgondev&show_icons=true&locale=en" alt="justgondev" /></p></br>
